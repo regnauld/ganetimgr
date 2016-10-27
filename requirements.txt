@@ -6,7 +6,7 @@ django-registration==2.1.2
 paramiko==2.0.2
 simplejson==2.5.2
 python-daemon==2.1.2
-setproctitle==1.0.1
+setproctitle==1.1.10
 pycurl==7.43.0
 recaptcha-client==1.0.6
 ipaddr==2.1.11
