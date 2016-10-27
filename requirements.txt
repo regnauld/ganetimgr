@@ -1,7 +1,7 @@
 gevent==1.1.2
 django==1.10.2
 redis==2.10.5
-south==0.7.5
+south==1.0.2
 django-registration==2.1.2
 paramiko==2.0.2
 simplejson==2.5.2
