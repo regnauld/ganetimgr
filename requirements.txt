@@ -7,7 +7,7 @@ paramiko==1.12.1
 simplejson==2.5.2
 python-daemon==2.1.2
 setproctitle==1.0.1
-pycurl==7.19.0
+pycurl==7.43.0
 recaptcha-client==1.0.6
 ipaddr==2.1.10
 beautifulsoup4==4.1.0
