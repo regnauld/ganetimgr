@@ -3,7 +3,7 @@ django==1.10.2
 redis==2.10.5
 south==0.7.5
 django-registration==2.1.2
-paramiko==1.12.1
+paramiko==2.0.2
 simplejson==2.5.2
 python-daemon==2.1.2
 setproctitle==1.0.1
