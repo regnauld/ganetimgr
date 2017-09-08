@@ -1,6 +1,6 @@
 # Django 1.8 (v2.0) Upgrade guide
 
-This document describes the process required to upgrade GAENTIMGR to Django 1.8.
+This document describes the process required to upgrade GANETIMGR to Django 1.8.
 
 ## Basic information
 
